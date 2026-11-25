@@ -10,3 +10,4 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://<ISHIKHIN>.github.io/devops-docs/`.
+[Несуществующая страница](missing-page.md)
